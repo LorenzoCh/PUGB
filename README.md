@@ -1,6 +1,6 @@
-# sys6018-final-project
-
-INTRODUCTION & BACKGROUND
+sys6018-final-project
+==========
+#INTRODUCTION & BACKGROUND
 ==========================================================================================================================================
 PlayerUnknown’s Battleground(PUBG) is an online multiplayer battle royale game that has amassed over 400 million players. In the upcoming year of 2019, PUBG will inaugurate a Global Championship that features 2 million dollars in reward.
 
